@@ -1,0 +1,13 @@
+.summary-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+.btn {
+  background-color: #0b69ff;
+  padding: 10px;
+  color: #ffffff;
+  border-radius: 10px;
+  border-width: 0px;
+}
