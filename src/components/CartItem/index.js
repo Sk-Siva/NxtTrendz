@@ -23,7 +23,7 @@ const CartItem = props => (
       }
 
       const onPlusItem = () => {
-        incrementCartItemQuantity(id)
+        incrementCartItemQuantity(id,1)
       }
       // TODO: Update the functionality to increment and decrement quantity of the cart item
 
